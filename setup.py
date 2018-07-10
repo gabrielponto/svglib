@@ -2,7 +2,7 @@ import sys
 from setuptools import setup
 import distutils.core
 
-__version__ = '0.8.1'
+__version__ = '0.8.2'
 __license__ = 'LGPL 3'
 __author__ = 'Dinu Gherman'
 __date__ = '2017-04-22'
